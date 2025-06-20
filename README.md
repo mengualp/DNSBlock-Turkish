@@ -32,17 +32,17 @@
         <tbody>
           <tr>
             <td>uBlock - AdGuard</td>
-            <td><a href="https://raw.githubusercontent.com/saurane/Turkish-Blocklist/master/Blocklist/adblock.txt">RAW</a></td>
-            <td><a href="https://raw.githubusercontent.com/saurane/Turkish-Blocklist/master/Blocklist/adb-privacy.txt">RAW</a></td>
-            <td><a href="https://raw.githubusercontent.com/saurane/Turkish-Blocklist/master/Blocklist/adb-urltracking.txt">RAW</a><br>"güvenilir filtre olarak işaretleyin"</td>
-            <td><a href="https://raw.githubusercontent.com/saurane/Turkish-Blocklist/master/Whitelist/adb-whitelist.txt">RAW</a></td>
+            <td><a href="https://raw.githubusercontent.com/mengualp/Turkish-Blocklist/master/Blocklist/adblock.txt">RAW</a></td>
+            <td><a href="https://raw.githubusercontent.com/mengualp/Turkish-Blocklist/master/Blocklist/adb-privacy.txt">RAW</a></td>
+            <td><a href="https://raw.githubusercontent.com/mengualp/Turkish-Blocklist/master/Blocklist/adb-urltracking.txt">RAW</a><br>"güvenilir filtre olarak işaretleyin"</td>
+            <td><a href="https://raw.githubusercontent.com/mengualp/Turkish-Blocklist/master/Whitelist/adb-whitelist.txt">RAW</a></td>
           </tr>
-          <tr><td>Pi-hole</td><td><a href="https://raw.githubusercontent.com/saurane/Turkish-Blocklist/master/Blocklist/domains.txt">RAW</a></td><td>-</td><td>-</td><td>-</td></tr>
-          <tr><td>AdAway</td><td><a href="https://raw.githubusercontent.com/saurane/Turkish-Blocklist/master/Blocklist/hosts.txt">RAW</a></td><td>-</td><td>-</td><td>-</td></tr>
-          <tr><td>Unbound</td><td><a href="https://raw.githubusercontent.com/saurane/Turkish-Blocklist/master/Blocklist/unbound.conf">RAW</a></td><td>-</td><td>-</td><td>-</td></tr>
-          <tr><td>dnsmasq</td><td><a href="https://raw.githubusercontent.com/saurane/Turkish-Blocklist/master/Blocklist/dnsmasq.conf">RAW</a></td><td>-</td><td>-</td><td>-</td></tr>
-          <tr><td>RPZ</td><td><a href="https://raw.githubusercontent.com/saurane/Turkish-Blocklist/master/Blocklist/rpz.txt">RAW</a></td><td>-</td><td>-</td><td>-</td></tr>
-          <tr><td>Windows Hosts</td><td><a href="https://raw.githubusercontent.com/saurane/Turkish-Blocklist/master/Blocklist/hosts.win">RAW</a></td><td>-</td><td>-</td><td>-</td></tr>
+          <tr><td>Pi-hole</td><td><a href="https://raw.githubusercontent.com/mengualp/Turkish-Blocklist/master/Blocklist/domains.txt">RAW</a></td><td>-</td><td>-</td><td>-</td></tr>
+          <tr><td>AdAway</td><td><a href="https://raw.githubusercontent.com/mengualp/Turkish-Blocklist/master/Blocklist/hosts.txt">RAW</a></td><td>-</td><td>-</td><td>-</td></tr>
+          <tr><td>Unbound</td><td><a href="https://raw.githubusercontent.com/mengualp/Turkish-Blocklist/master/Blocklist/unbound.conf">RAW</a></td><td>-</td><td>-</td><td>-</td></tr>
+          <tr><td>dnsmasq</td><td><a href="https://raw.githubusercontent.com/mengualp/Turkish-Blocklist/master/Blocklist/dnsmasq.conf">RAW</a></td><td>-</td><td>-</td><td>-</td></tr>
+          <tr><td>RPZ</td><td><a href="https://raw.githubusercontent.com/mengualp/Turkish-Blocklist/master/Blocklist/rpz.txt">RAW</a></td><td>-</td><td>-</td><td>-</td></tr>
+          <tr><td>Windows Hosts</td><td><a href="https://raw.githubusercontent.com/mengualp/Turkish-Blocklist/master/Blocklist/hosts.win">RAW</a></td><td>-</td><td>-</td><td>-</td></tr>
         </tbody>
       </table>
       <h2>Filtre açıklaması</h2>
@@ -55,7 +55,7 @@
       <p>AdGuard, NextDNS, URL Scan gibi araçlar kullanıldı.</p>
 
       <h2>Sorunlar ve İstekler</h2>
-      <p>Her türlü destek ve geri bildirim için <a href="https://github.com/saurane/Turkish-Blocklist/issues">GitHub Issues</a> sayfasını kullanabilirsiniz.</p>
+      <p>Her türlü destek ve geri bildirim için <a href="https://github.com/mengualp/Turkish-Blocklist/issues">GitHub Issues</a> sayfasını kullanabilirsiniz.</p>
     </article>
   </div>
 </body>
