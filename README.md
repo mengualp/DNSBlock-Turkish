@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Turkish Blocklist</title>
+  Turkish Blocklist
   <link rel="stylesheet" href="https://github.githubassets.com/assets/github-dcaf0f44dbb1.css">
 </head>
 <body>
